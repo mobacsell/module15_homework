@@ -1,0 +1,25 @@
+.btn    {
+    padding: 10px 20px;
+    outline: none;
+    border: 0;
+    background-color: #36b35f;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.btn:hover  {
+    transform: scale(1.05);
+}
+
+.result  {
+    color: #36b35f;
+}
+
+.bold   {
+    font-weight: 600;
+    color: #404040;
+}
+
+.red    {
+    color: #e74545;
+}
