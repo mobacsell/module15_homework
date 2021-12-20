@@ -1,0 +1,27 @@
+.btn    {
+    padding: 5px 15px;
+    outline: none;
+    background-color: #34a2d4;
+    border: 1px solid #34a2d4;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.btn:hover {
+    background-color: #fff;
+    color: #34a2d4;
+}
+
+.result {
+    color: #34a2d4;
+}
+
+.bold    {
+    font-weight: 600;
+    color: #484b4b;
+}
+
+.red    {
+    font-weight: 400;
+    color: #dd4848;
+}
