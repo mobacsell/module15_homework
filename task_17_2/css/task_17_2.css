@@ -1,0 +1,27 @@
+.btn {
+    border: none;
+    outline: none;
+    box-shadow: none; 
+
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: white;
+    background: #4992ff;
+    transition: 0.5s;
+    cursor: pointer;
+    width: 240px;
+}
+.btn:hover {
+    transform: scale(1.05);
+ 	} 
+	 
+.btn-icon--none {
+	display: none;
+}
+
+ 
+  
